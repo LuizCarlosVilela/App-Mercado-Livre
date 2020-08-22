@@ -6,7 +6,7 @@ import logo from "../../../assets/logo.png";
 import styles from "./styles";
 import Button from "../../components/Button";
 
-const Login = ({ navigation }) => {
+const RedfinePass = () => {
   return (
     <View style={styles.container}>
       <Image source={logo} />
@@ -18,26 +18,12 @@ const Login = ({ navigation }) => {
           autoCapitalize="none"
           placeholder="E-mail"
         />
-        <TextInput
-          name="user"
-          style={styles.input}
-          keyboardType="email-address"
-          autoCapitalize="none"
-          placeholder="E-mail"
-        />
       </View>
       <Button style="outline">
         <Text style={styles.text_primary}>ENTRAR</Text>
       </Button>
-
-      <TouchableOpacity
-        style={styles.redefinePass}
-        onPress={() => navigation.navigate("RedefinePass")}
-      >
-        <Text style={styles.text_primary}>Esqueceu sua senha?</Text>
-      </TouchableOpacity>
     </View>
   );
 };
 
-export default Login;
+export default RedfinePass;

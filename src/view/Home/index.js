@@ -13,7 +13,7 @@ const Home = ({ navigation }) => {
       <Button style="outline" onPress={() => navigation.navigate("Login")}>
         <Text>ENTRAR</Text>
       </Button>
-      <Button>
+      <Button onPress={() => navigation.navigate("Signup")}>
         <Text style={styles.text_white}>CRIAR CONTA</Text>
       </Button>
     </View>
