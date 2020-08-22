@@ -6,7 +6,7 @@ import styles from "./styles";
 const Button = (props) => {
   return (
     <TouchableOpacity
-      onPress={props.Press}
+      onPress={props.onPress}
       style={
         props.style == "outline"
           ? styles.btn_outline_primary

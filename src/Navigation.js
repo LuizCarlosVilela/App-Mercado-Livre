@@ -4,6 +4,7 @@ import { createStackNavigator } from "@react-navigation/stack";
 
 //Components
 import Home from "./view/Home";
+import Login from "./view/Login";
 
 const Stack = createStackNavigator();
 
@@ -12,6 +13,7 @@ export default function Navigation() {
     <NavigationContainer>
       <Stack.Navigator>
         <Stack.Screen name="Home" component={Home} />
+        <Stack.Screen name="Login" component={Login} />
       </Stack.Navigator>
     </NavigationContainer>
   );
