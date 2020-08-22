@@ -26,7 +26,7 @@ const Login = ({ navigation }) => {
           placeholder="E-mail"
         />
       </View>
-      <Button style="outline">
+      <Button style="outline" onPress={() => navigation.navigate("Index")}>
         <Text style={styles.text_primary}>ENTRAR</Text>
       </Button>
 
