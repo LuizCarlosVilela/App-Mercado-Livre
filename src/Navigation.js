@@ -11,18 +11,34 @@ import Index from "./view/Index";
 
 const Stack = createStackNavigator();
 
+const optionsHeader = () => ({
+  headerTitleAlign: "center",
+  headerStyle: {
+    backgroundColor: "#ffe600",
+    elevation: 0,
+  },
+});
+
 export default function Navigation() {
   return (
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen name="Home" component={Home} />
-        <Stack.Screen name="Login" component={Login} />
-        <Stack.Screen name="Signup" component={Signup} />
-        <Stack.Screen name="RedefinePass" component={RedfinePass} />
+        <Stack.Screen name="Home" component={Home} options={optionsHeader} />
+        <Stack.Screen name="Login" component={Login} options={optionsHeader} />
+        <Stack.Screen
+          name="Signup"
+          component={Signup}
+          options={optionsHeader}
+        />
+        <Stack.Screen
+          name="RedefinePass"
+          component={RedfinePass}
+          options={optionsHeader}
+        />
         <Stack.Screen
           name="Index"
           component={Index}
-          options={{ headerShown: false }}
+          options={{ headerShown: false, headerTitleAlign: "center" }}
         />
       </Stack.Navigator>
     </NavigationContainer>
