@@ -13,14 +13,18 @@ const styles = StyleSheet.create({
     color: "#FFFFFF",
   },
   text_primary: {
+    fontSize: 14,
     color: "#3483FA",
+  },
+  text_secundary: {
+    color: "#000",
   },
   drawer_content: {
     flex: 1,
     backgroundColor: "#CDCDCD",
   },
   drawer_header: {
-    flex: 1,
+    flex: 2,
     backgroundColor: "#ffe600",
     paddingTop: 40,
     paddingHorizontal: 20,
@@ -49,6 +53,15 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-between",
     alignItems: "center",
+  },
+  footer: {
+    flex: 0.5,
+    justifyContent: "center",
+    alignItems: "center",
+    paddingHorizontal: 20,
+    borderTopWidth: 0.5,
+    borderTopColor: "#c1c1c1",
+    backgroundColor: "#FFF",
   },
 });
 

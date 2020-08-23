@@ -22,7 +22,7 @@ const HeaderDrawer = () => {
       <View style={styles.user}>
         <Profile />
         <View>
-          <Text>Olá José</Text>
+          <Text>Olá Luiz</Text>
           <Text>Nivel 3 - Mercado Pontos</Text>
         </View>
       </View>
@@ -36,8 +36,10 @@ const HeaderDrawer = () => {
 
 const FooterDrawer = () => {
   return (
-    <View>
-      <Text>Desenvolvido por </Text>
+    <View style={styles.footer}>
+      <Text style={styles.text_secundary}>
+        Developer <Text style={styles.text_primary}>@LuizCarlosVilela</Text>
+      </Text>
     </View>
   );
 };
