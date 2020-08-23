@@ -34,37 +34,47 @@ const List = ({ navigation }) => {
   const listProduct = [
     {
       id: "2",
-      name: "TV",
-      price: 1250.27,
+      name: "Celular LG K40S Preto",
+      price: 849.0,
       condition: "Novo",
       picture:
-        "https://www.casasbahia-imagens.com.br/Informatica/Notebook/55006647/1312426042/macbook-air-apple-core-i5-8gb-512gb-ssd-tela-retina-13-3-macos-mvh22bz-a-cinza-espacial-55006647.jpg",
+        "https://www.casasbahia-imagens.com.br/TelefoneseCelulares/Smartphones/Android/50005855/1198731640/smartphone-lg-k40s-preto-32gb-tela-61-hd-fullvision-inteligencia-artificial-camera-traseira-dupla-selfie-de-13mp-e-processador-octa-core-50005855.jpg",
     },
     {
       id: "1",
-      name: "TV2",
-      price: 1250.27,
+      name: "Celular xiaomi Redmi 7A",
+      price: 999.0,
       condition: "Novo",
       picture:
-        "https://www.casasbahia-imagens.com.br/Informatica/Notebook/55006647/1312426042/macbook-air-apple-core-i5-8gb-512gb-ssd-tela-retina-13-3-macos-mvh22bz-a-cinza-espacial-55006647.jpg",
+        "https://www.casasbahia-imagens.com.br/TelefoneseCelulares/Smartphones/Android/1500603461/1394929951/xiaomi-redmi-7a-2gb-ram-32gb-global-preto-1500603461.jpg",
     },
     {
       id: "3",
-      name: "TV 2",
-      price: 1250.27,
+      name: "Celular Samsung Galaxy A01",
+      price: 799.0,
       condition: "Novo",
       picture:
-        "https://www.casasbahia-imagens.com.br/Informatica/Notebook/55006647/1312426042/macbook-air-apple-core-i5-8gb-512gb-ssd-tela-retina-13-3-macos-mvh22bz-a-cinza-espacial-55006647.jpg",
+        "https://www.casasbahia-imagens.com.br/TelefoneseCelulares/Smartphones/Android/1503683221/1375015933/celular-samsung-galaxy-a01-32gb-2gb-ram-13mp-2mp-vermelho-1503683221.jpg",
     },
     {
       id: "4",
-      name: "TV 2",
-      price: 1250.27,
+      name: "Celular Xiaomi Redmi Note 8 ",
+      price: 1590.0,
       condition: "Novo",
       picture:
-        "https://www.casasbahia-imagens.com.br/Informatica/Notebook/55006647/1312426042/macbook-air-apple-core-i5-8gb-512gb-ssd-tela-retina-13-3-macos-mvh22bz-a-cinza-espacial-55006647.jpg",
+        "https://www.casasbahia-imagens.com.br/TelefoneseCelulares/Smartphones/Android/1501012424/1198292626/smartphone-xiaomi-redmi-note-8-4gb-64gb-dual-space-black-preto-1501012424.jpg",
+    },
+    {
+      id: "5",
+      name: " Celular Samsung Galaxy A30s",
+      price: 1399.0,
+      condition: "Novo",
+      picture:
+        "https://www.casasbahia-imagens.com.br/TelefoneseCelulares/Smartphones/Android/50005033/1189278412/smartphone-samsung-galaxy-a30s-preto-64gb-4gb-ram-tela-infinita-de-6-4-camera-traseira-tripla-leitor-digital-na-tela-android-9-0-e-tv-digital-50005033.jpg",
     },
   ];
+
+  function Search() {}
 
   return (
     <>

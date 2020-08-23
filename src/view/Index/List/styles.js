@@ -3,6 +3,7 @@ import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    paddingHorizontal: 5,
   },
   text_results: {
     marginTop: 20,
@@ -23,6 +24,8 @@ const styles = StyleSheet.create({
     borderBottomColor: "#CDCDCD",
     flexDirection: "row",
     alignItems: "center",
+
+    backgroundColor: "#fff",
   },
   item_title: {
     fontSize: 16,

@@ -2,7 +2,6 @@ import React from "react";
 import { View, TouchableOpacity, TextInput, Alert } from "react-native";
 
 import { createStackNavigator } from "@react-navigation/stack";
-
 import { EvilIcons, Feather } from "@expo/vector-icons";
 
 //Components
@@ -14,12 +13,14 @@ import styles from "./styles";
 const SearchBarHeader = () => {
   return (
     <View style={styles.input_search}>
-      <EvilIcons
-        name="search"
-        size={22}
-        color="#CDCDCD"
-        style={{ marginRight: 5 }}
-      />
+      <TouchableOpacity>
+        <EvilIcons
+          name="search"
+          size={22}
+          color="#CDCDCD"
+          style={{ marginRight: 5 }}
+        />
+      </TouchableOpacity>
       <TextInput placeholder="Buscar no Mercado Livre" />
     </View>
   );
@@ -59,7 +60,7 @@ const Stack = createStackNavigator();
 
 const Navigation = () => {
   return (
-    <Stack.Navigator initialRouteName="List">
+    <Stack.Navigator>
       <Stack.Screen name="Main" component={Main} options={optionHeader} />
       <Stack.Screen name="List" component={List} options={optionHeader} />
     </Stack.Navigator>
