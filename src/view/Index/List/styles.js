@@ -8,6 +8,7 @@ const styles = StyleSheet.create({
   text_results: {
     marginTop: 20,
     marginHorizontal: 10,
+    marginBottom: 5,
   },
   container_item: {
     flexDirection: "row",

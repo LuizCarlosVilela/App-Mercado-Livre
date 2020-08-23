@@ -9,11 +9,17 @@ import {
   SafeAreaView,
 } from "react-native";
 
+import { useNavigation } from "@react-navigation/native";
+
 import styles from "./styles";
 
 function Item({ item }) {
+  const { navigate } = useNavigation();
   return (
-    <TouchableOpacity style={styles.item}>
+    <TouchableOpacity
+      style={styles.item}
+      onPress={() => navigate("Item", { item })}
+    >
       <Image style={styles.picture} source={{ uri: item.picture }} />
       <View style={styles.title}>
         <Text style={styles.item_title}>{item.name}</Text>
@@ -73,8 +79,6 @@ const List = ({ navigation }) => {
         "https://www.casasbahia-imagens.com.br/TelefoneseCelulares/Smartphones/Android/50005033/1189278412/smartphone-samsung-galaxy-a30s-preto-64gb-4gb-ram-tela-infinita-de-6-4-camera-traseira-tripla-leitor-digital-na-tela-android-9-0-e-tv-digital-50005033.jpg",
     },
   ];
-
-  function Search() {}
 
   return (
     <>

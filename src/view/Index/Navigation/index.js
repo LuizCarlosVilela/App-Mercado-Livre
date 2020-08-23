@@ -9,6 +9,7 @@ import Main from "../Main";
 import List from "../List";
 
 import styles from "./styles";
+import ItemDetais from "../ItemDetais";
 
 const SearchBarHeader = () => {
   return (
@@ -63,6 +64,7 @@ const Navigation = () => {
     <Stack.Navigator>
       <Stack.Screen name="Main" component={Main} options={optionHeader} />
       <Stack.Screen name="List" component={List} options={optionHeader} />
+      <Stack.Screen name="Item" component={ItemDetais} options={optionHeader} />
     </Stack.Navigator>
   );
 };
