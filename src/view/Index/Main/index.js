@@ -5,13 +5,13 @@ import styles from "./styles";
 
 const Main = ({ navigation }) => {
   return (
-    <ScrollView>
+    <View style={styles.container}>
       <Text>Página home</Text>
 
       <TouchableOpacity onPress={() => navigation.goBack()}>
         <Text>Voltar</Text>
       </TouchableOpacity>
-    </ScrollView>
+    </View>
   );
 };
 

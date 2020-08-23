@@ -1,5 +1,5 @@
 import React from "react";
-import { View, TouchableOpacity, TextInput } from "react-native";
+import { View, TouchableOpacity, TextInput, Alert } from "react-native";
 
 import { createStackNavigator } from "@react-navigation/stack";
 
@@ -7,6 +7,7 @@ import { EvilIcons, Feather } from "@expo/vector-icons";
 
 //Components
 import Main from "../Main";
+import List from "../List";
 
 import styles from "./styles";
 
@@ -58,8 +59,9 @@ const Stack = createStackNavigator();
 
 const Navigation = () => {
   return (
-    <Stack.Navigator>
+    <Stack.Navigator initialRouteName="List">
       <Stack.Screen name="Main" component={Main} options={optionHeader} />
+      <Stack.Screen name="List" component={List} options={optionHeader} />
     </Stack.Navigator>
   );
 };

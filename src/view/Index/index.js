@@ -34,6 +34,14 @@ const HeaderDrawer = () => {
   );
 };
 
+const FooterDrawer = () => {
+  return (
+    <View>
+      <Text>Desenvolvido por </Text>
+    </View>
+  );
+};
+
 const DrawerContent = ({ navigation }) => {
   const listMenuDrawer = [
     {
@@ -65,6 +73,7 @@ const DrawerContent = ({ navigation }) => {
           ))}
         </DrawerContentScrollView>
       </View>
+      <FooterDrawer />
     </View>
   );
 };
