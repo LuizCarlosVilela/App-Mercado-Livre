@@ -1,5 +1,5 @@
 
-# ***Proffy App Mobile :iphone:***
+# ***Clone Mercado-Livre:iphone:***
 
 <h1 align=center>
   <img src="assets/img/Banner.PNG" alt="Proffy Banner"/>
@@ -8,9 +8,6 @@
 <div align=center>
 
 ![MIT][mit] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&labelColor=007ACC)](https://github.com/ellerbrock/typescript-badges/)
-  <a href="https://rocketseat.com.br" target="_blank">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
-  </a>
   
   <a href="https://www.linkedin.com/in/luiz-carlos-vilela" target="_blank"> 
     <img src="https://img.shields.io/badge/Developer-Luiz%20Carlos-brightgreen?style=flat&logo=Linkedin&logoColor=white" alt="Developer link" />
@@ -72,13 +69,8 @@ O projeto tem como finalidade <strong>estabelecer uma conexão</strong> entre os
 
 ### ***Utilitários***
 
-- Protótipo: **[Figma](https://www.figma.com/)** &rarr; **<kbd>[Protótipo (Proffy)](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web/duplicate)</kbd>**
 - Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
-- Markdown: **[StackEdit][stackedit]**, **<kbd>[Markdown Emoji][markdown_emoji]</kbd>**
-- Commit Conventional: **[Commitlint][commitlint]**
-- Teste de API: **[Insomnia][insomnia]**
 - Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
-- Fontes: **[Archivo][font_archivo]**, **[Poopins][font_poopins]**
 
 ## ***:wine_glass: COMO UTILIZAR***
 
@@ -183,24 +175,15 @@ $ expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poopins
 ## ***:books: REFERÊNCIAS***
 
 - [React + TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-- [Blog Rocketseat](https://blog.rocketseat.com.br/)
-- [ReactJS](https://reactjs.org/docs/getting-started.html) | [ReactJS pt-BR](https://pt-br.reactjs.org/docs/getting-started.html)
 - [TypeScript](https://www.typescriptlang.org/docs/home.html)
 - [React Native](https://reactnative.dev/docs/getting-started)
-- [Expo](https://expo.io/learn)
 - [Node](https://nodejs.org/en/)
-- [Celebrate](https://github.com/arb/celebrate)
-- [Joi](https://hapi.dev/module/joi/)
 
 ## ***:page_with_curl: LICENÇA***
 
 Este repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
 
  <i> <h2 align="center">Feito com ❤️ por <a href="https://www.linkedin.com/in/luiz-carlos-vilela/"> Luiz Carlos Vilela </a></h2> </i>
-
-<!-- Website Links -->
-
-[rocketseat_site]: https://rocketseat.com.br/
 
 <!-- Badges -->
 
