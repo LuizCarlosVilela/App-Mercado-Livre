@@ -20,7 +20,7 @@
 <h3 align=center>
   
 :books:
-Clone Mercado-Livre é um projeto para replicar a interface do aplicativo Mercado Livre. Utilizando as tecnologias ***TypeScript, Node, React e React Native***.
+Clone Mercado-Livre é um projeto para replicar a interface do aplicativo Mercado Livre. Utilizando as tecnologias ***TypeScript, Node, e React Native***.
 
 </h3>
 
