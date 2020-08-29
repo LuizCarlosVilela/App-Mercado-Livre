@@ -2,7 +2,7 @@
 # ***Clone Mercado-Livre:iphone:***
 
 <h1 align=center>
-  <img src="assets/img/Banner.PNG" alt="Proffy Banner"/>
+  <img src="assets/img/Banner.PNG" alt="Mercado-Livre Banner"/>
 </h1>
 
 <div align=center>
