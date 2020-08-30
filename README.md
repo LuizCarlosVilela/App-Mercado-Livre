@@ -60,7 +60,6 @@ O projeto tem como finalidade desenvolver uma aplicação mobile com a aparênci
 
   - **[Expo][expo]**
   - **[Expo Google Fonts][expo_google_fonts]**
-  - **[React Navigation][react_navigation]**
   - **[Expo Constants][expo_constants]**
   - **[React Native SVG][react_native_svg]**
   - **[Axios][axios]**
@@ -70,7 +69,6 @@ O projeto tem como finalidade desenvolver uma aplicação mobile com a aparênci
 ### ***Utilitários***
 
 - Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
-- Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
 
 ## ***:wine_glass: COMO UTILIZAR***
 
