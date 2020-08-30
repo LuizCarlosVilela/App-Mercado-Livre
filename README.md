@@ -51,7 +51,7 @@ Clone Mercado-Livre é um projeto para replicar a interface do aplicativo Mercad
 ## ***:rocket: OBJETIVO***
 
 <p align=justify> 
-O projeto tem como finalidade <strong>estabelecer uma conexão</strong> entre os <strong>professores</strong> (Proffys) e os <strong>alunos</strong> que desejam um professor com qualificação para dar orientações e aulas sobre determinada matéria. Solucionando então um <strong>problema de comunicação</strong> entre <strong>professores</strong> que queiram dar aulas, e <strong>alunos</strong> que desejam um professor para orientar nos <strong>estudos em diversas áreas</strong>.
+O projeto tem como finalidade desenvolver uma aplicação mobile com a aparência igual ao aplicativo Mercado Livre. Ao decorrer do projeto tenho como objetivo também desenvolver conhecimento em <strong>React</strong> e em <strong>TypeScript</strong>.
 </p>
 
 ## ***:computer: TECNOLOGIAS***
@@ -65,7 +65,7 @@ O projeto tem como finalidade <strong>estabelecer uma conexão</strong> entre os
   - **[React Native SVG][react_native_svg]**
   - **[Axios][axios]**
 
-  Arquivo json do front-end mobile <kbd>[package.json](https://github.com/LuizCarlosVilela/nlw-2-mobile/blob/master/package.json)</kbd>
+  Arquivo json do front-end mobile <kbd>[package.json](https://github.com/LuizCarlosVilela/clone-mercado-livre/blob/master/package.json)</kbd>
 
 ### ***Utilitários***
 
