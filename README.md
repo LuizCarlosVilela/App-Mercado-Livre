@@ -43,7 +43,7 @@ Clone Mercado-Livre é um projeto para replicar a interface do aplicativo Mercad
 ## ***:rocket: OBJETIVO***
 
 <p align=justify> 
-O projeto tem como finalidade desenvolver uma aplicação mobile com a aparência igual ao aplicativo Mercado Livre. Ao decorrer do projeto tenho como objetivo também desenvolver conhecimento em <strong>React</strong> e em <strong>TypeScript</strong>.
+O projeto tem como finalidade desenvolver uma aplicação mobile com a aparência igual ao aplicativo <strong>Mercado Livre</strong> onde o login/cadastro são feitos com o a API do <strong>firebase</strong> com contas do google/facebook. Ao decorrer do projeto tenho como objetivo também desenvolver conhecimento em <strong>React</strong> e <strong>TypeScript</strong>.
 </p>
 
 ## ***:computer: TECNOLOGIAS***
@@ -55,6 +55,8 @@ O projeto tem como finalidade desenvolver uma aplicação mobile com a aparênci
   - **[Expo Constants][expo_constants]**
   - **[React Native SVG][react_native_svg]**
   - **[Axios][axios]**
+  
+  - **[Firebase][firebase]**
 
   Arquivo json do front-end mobile <kbd>[package.json](https://github.com/LuizCarlosVilela/clone-mercado-livre/blob/master/package.json)</kbd>
 
@@ -187,6 +189,8 @@ Este repositório está licenciado pela **MIT LICENSE**. Para mais informações
 [expo_constants]: https://docs.expo.io/versions/latest/sdk/constants/
 
 [react_native_svg]: https://github.com/react-native-community/react-native-svg
+
+[firebase]: https://firebase.google.com/docs/
 
 [asdf]: https://github.com/asdf-vm/asdf
 
