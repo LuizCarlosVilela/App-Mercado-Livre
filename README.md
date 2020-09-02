@@ -35,8 +35,31 @@
   
 :books:
 Clone Mercado-Livre é um projeto para replicar a interface do aplicativo Mercado Livre. Utilizando as tecnologias ***TypeScript, Node, e React Native***.
-
 </h3>
+
+<h2 align=center>
+  <i>Telas Mobile </i> :iphone:
+</h2>
+
+<div align=center >  
+  <table align=center border="0">
+  <tr align=center>
+    <th ><strong> <i> List </i> </strong></th>
+    <th ><strong> <i> Product </i> </strong></th>
+    <th ><strong> <i> User </i> </strong></th>
+  </tr>
+                                
+  <tr align=center >
+    <td >
+       <img width="400" src="assets/img/List.png">
+    </td>
+    <td > <img width="400" src="assets/img/Product.png"> </td>
+    <td > <img width="400" src="assets/img/User.png"> </td>  
+  </tr>
+</table>
+</div>
+
+<br />
 
 ## ***:rocket: OBJETIVO***
 
