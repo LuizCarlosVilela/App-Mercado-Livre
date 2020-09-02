@@ -5,16 +5,14 @@
   <table align=center border="0">
   <tr align=center>
     <th ><strong> <i> Home </i> </strong></th>
-    <th ><strong> <i> Study </i> </strong></th>
-    <th ><strong> <i> Teacher </i> </strong></th>
+    <th ><strong> <i> Login </i> </strong></th>
   </tr>
                                 
   <tr align=center >
     <td >
-       <img width="400" src="assets/img/Landing.png">
+       <img width="400" src="assets/img/Home.png">
     </td>
-    <td > <img width="400" src="assets/img/Teacher.png"> </td>
-    <td> <img width="400" src="assets/img/TeacherList.png"> </td>
+    <td > <img width="400" src="assets/img/Login.png"> </td>
   </tr>
 </table>
 </div>
