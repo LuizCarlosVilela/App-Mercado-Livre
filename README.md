@@ -21,7 +21,7 @@
 
 <div align=center>
 
-![MIT][mit] ![Node_Badge][node_version_badge]  <img src="https://img.shields.io/badge/-Node%20JS-green?logo=node.js&logoColor=white&labelColor=green" alt="Node" /> ![Npm_Badge][npm_version_badge]  ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&labelColor=007ACC)](https://github.com/ellerbrock/typescript-badges/)
+![MIT][mit] ![Node_Badge][node_version_badge]  <img src="https://img.shields.io/badge/-Node%20JS-green?logo=node.js&logoColor=white&labelColor=green" alt="Node" /> ![Npm_Badge][npm_version_badge]  ![React_Native_Badge][mobile_react-native_badge]  [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&labelColor=007ACC)](https://github.com/ellerbrock/typescript-badges/)
   
   <a href="https://www.linkedin.com/in/luiz-carlos-vilela" target="_blank"> 
     <img src="https://img.shields.io/badge/Developer-Luiz%20Carlos-brightgreen?style=flat&logo=Linkedin&logoColor=white" alt="Developer link" />
