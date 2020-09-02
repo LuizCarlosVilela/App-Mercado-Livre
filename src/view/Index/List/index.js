@@ -48,7 +48,7 @@ const List = ({ navigation }) => {
     },
     {
       id: "1",
-      name: "Celular Motorola Macro Azul Espacial",
+      name: "Celular Motorola Macro Azul",
       price: 1299.0,
       condition: "Novo",
       picture:
