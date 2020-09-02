@@ -1,32 +1,5 @@
 
-# ***Clone Mercado-Livre:iphone:***
-
-<h1 align=center>
-  <img src="assets/img/Banner.PNG" alt="Mercado-Livre Banner"/>
-</h1>
-
-<div align=center>
-
-![MIT][mit] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&labelColor=007ACC)](https://github.com/ellerbrock/typescript-badges/)
-  
-  <a href="https://www.linkedin.com/in/luiz-carlos-vilela" target="_blank"> 
-    <img src="https://img.shields.io/badge/Developer-Luiz%20Carlos-brightgreen?style=flat&logo=Linkedin&logoColor=white" alt="Developer link" />
-  </a>
-
-</div>
-
-<br />
-
-<h3 align=center>
-  
-:books:
-Clone Mercado-Livre é um projeto para replicar a interface do aplicativo Mercado Livre. Utilizando as tecnologias ***TypeScript, Node, e React Native***.
-
-</h3>
-
-<h2 align=center>
-  <i>Telas Mobile </i> :iphone:
-</h2>
+# ***App Mercado-Livre :iphone:***
 
 <div align=center >  
   <table align=center border="0">
@@ -47,6 +20,25 @@ Clone Mercado-Livre é um projeto para replicar a interface do aplicativo Mercad
 </div>
 
 <br />
+
+<div align=center>
+
+![MIT][mit] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&labelColor=007ACC)](https://github.com/ellerbrock/typescript-badges/)
+  
+  <a href="https://www.linkedin.com/in/luiz-carlos-vilela" target="_blank"> 
+    <img src="https://img.shields.io/badge/Developer-Luiz%20Carlos-brightgreen?style=flat&logo=Linkedin&logoColor=white" alt="Developer link" />
+  </a>
+
+</div>
+
+<br />
+
+<h3 align=center>
+  
+:books:
+Clone Mercado-Livre é um projeto para replicar a interface do aplicativo Mercado Livre. Utilizando as tecnologias ***TypeScript, Node, e React Native***.
+
+</h3>
 
 ## ***:rocket: OBJETIVO***
 
