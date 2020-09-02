@@ -49,8 +49,9 @@ O projeto tem como finalidade desenvolver uma aplicação mobile com a aparênci
 ## ***:computer: TECNOLOGIAS***
 
 #### ***:iphone: Mobile*** ([React Native][react_native] + [TypeScript][typescript])
-
   - **[Expo][expo]**
+  - **[Expo Google Fonts][expo_google_fonts]**
+  - **[React Navigation][react_navigation]**
   - **[Expo Constants][expo_constants]**
   - **[React Native SVG][react_native_svg]**
   - **[Axios][axios]**
