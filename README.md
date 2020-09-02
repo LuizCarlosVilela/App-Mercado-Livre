@@ -49,14 +49,14 @@ O projeto tem como finalidade desenvolver uma aplicação mobile com a aparênci
 ## ***:computer: TECNOLOGIAS***
 
 #### ***:iphone: Mobile*** ([React Native][react_native] + [TypeScript][typescript])
-  - **[Expo][expo]**
-  - **[Expo Google Fonts][expo_google_fonts]**
-  - **[React Navigation][react_navigation]**
-  - **[Expo Constants][expo_constants]**
-  - **[React Native SVG][react_native_svg]**
-  - **[Axios][axios]**
+  - ***[Expo][expo]***
+  - ***[Expo Google Fonts][expo_google_fonts]***
+  - ***[React Navigation][react_navigation]***
+  - ***[Expo Constants][expo_constants]***
+  - ***[React Native SVG][react_native_svg]***
+  - ***[Axios][axios]***
   
-  - **[Firebase][firebase]**
+  - ***[Firebase][firebase]***
 
   Arquivo json do front-end mobile <kbd>[package.json](https://github.com/LuizCarlosVilela/clone-mercado-livre/blob/master/package.json)</kbd>
 
@@ -124,11 +124,12 @@ Agora, abra o aplicativo do expo e no modo **LAN** faça o scan do QRCode.
 
 ## ***:books: REFERÊNCIAS***
 
-- [React + TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-- [TypeScript](https://www.typescriptlang.org/docs/home.html)
-- [React Native](https://reactnative.dev/docs/getting-started)
-- [Expo](https://expo.io/learn)
-- [Node](https://nodejs.org/en/)
+- ***[React + TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)***
+- ***[TypeScript](https://www.typescriptlang.org/docs/home.html)***
+- ***[React Native](https://reactnative.dev/docs/getting-started)***
+- ***[Expo](https://expo.io/learn)***
+- ***[Node](https://nodejs.org/en/)***
+- ***[Firebase][firebase]***
 
 ## ***:page_with_curl: LICENÇA***
 
