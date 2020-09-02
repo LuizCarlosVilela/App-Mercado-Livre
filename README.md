@@ -124,6 +124,7 @@ Agora, abra o aplicativo do expo e no modo **LAN** faça o scan do QRCode.
 - [React + TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [TypeScript](https://www.typescriptlang.org/docs/home.html)
 - [React Native](https://reactnative.dev/docs/getting-started)
+- [Expo](https://expo.io/learn)
 - [Node](https://nodejs.org/en/)
 
 ## ***:page_with_curl: LICENÇA***
@@ -201,4 +202,5 @@ Este repositório está licenciado pela **MIT LICENSE**. Para mais informações
 [asdf]: https://github.com/asdf-vm/asdf
 
 [yarn]: https://classic.yarnpkg.com/en/docs/install/#debian-stable
+[axios]: https://github.com/axios/axios
 
