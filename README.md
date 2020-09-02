@@ -59,7 +59,6 @@ O projeto tem como finalidade desenvolver uma aplicação mobile com a aparênci
 #### ***:iphone: Mobile*** ([React Native][react_native] + [TypeScript][typescript])
 
   - **[Expo][expo]**
-  - **[Expo Google Fonts][expo_google_fonts]**
   - **[Expo Constants][expo_constants]**
   - **[React Native SVG][react_native_svg]**
   - **[Axios][axios]**
@@ -89,7 +88,7 @@ $ npm install -g expo-cli
 
 ### ***Expo (React Native)***
 
-Instale as dependências contidas nos arquivos `package.json` que se encontram na raíz do repositório (para o gerenciamento de commits), no diretório do **server**, no diretório do **website** e no diretório **mobile**. Para instalar as dependências, basta abrir o terminal no diretório e digitar o comando:
+Instale as dependências contidas nos arquivos `package.json` que se encontram na raíz do repositório (para o gerenciamento de commits). Para instalar as dependências, basta abrir o terminal no diretório e digitar o comando:
 
 ```sh
 $ npm install
@@ -101,72 +100,30 @@ $ yarn
 Exemplos:
 
 ```sh
-# Instalando as dependências do commitlint:
-$ cd ./proffy
-$ npm install
 
 # Instalando as dependências do mobile:
-$ cd ./sources/mobile
+$ cd clone-mercado-livre
 $ npm install
 ```
 
-Veja os arquivos **`package.json`** do <kbd>[commitlint](./package.json)</kbd>, <kbd>[server](https://github.com/LuizCarlosVilela/nlw-2-backend/blob/master/package.json)</kbd>, <kbd>[website](https://github.com/LuizCarlosVilela/nlw-2-web/blob/master/package.json)</kbd> e <kbd>[mobile](https://github.com/LuizCarlosVilela/nlw-2-mobile/blob/master/package.json)</kbd>.
+Veja os arquivos **`package.json`** do <kbd>[commitlint](./package.json)</kbd>, <kbd>[mobile](https://github.com/LuizCarlosVilela/clone-mercado-livre/blob/master/package.json)</kbd>.
 
 ### ***Utilizando o Mobile***
 
 Instale o aplicativo <kbd>[Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en)</kbd> no seu smartphone.
 
 ```sh
-# Abrindo o terminal no diretório do mobile:
-$ cd ./sources/mobile
-
 # Executando o mobile no modo de desenvolvimento:
 $ npm run start
 ```
 
 Agora, abra o aplicativo do expo e no modo **LAN** faça o scan do QRCode.
 
-> Se tiver algum problema para executar o aplicativo nesse modo, tente desabilitar o firewall da sua máquina.
-
-Se tiver algum problema com as fontes, utilize o comando:
-```sh
-$ expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poopins
-```
-
 ## ***:star2: AGRADECIMENTOS***
 
 <div align=center>
 
-<table style="width:100%">
-  <tr align=center>
-    <th><strong>Next Level Week</strong></th>
-    <th><strong>Rocketseat</strong></th>
-    <th><strong>diego3g</strong></th>
-    <th><strong>maykbrito</strong></th>
-  </tr>
-  <tr align=center>
-    <td>
-      <a href="https://nextlevelweek.com/">
-        <img width="200" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a15e5ee3-7ba9-4aae-ad19-bd86929051f1/download.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200808%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200808T220334Z&X-Amz-Expires=86400&X-Amz-Signature=7a15de22d455cd3d55bcb53c74e72e9e592c9bac6ac6ba2546c3b3bcaa27c1fe&X-Amz-SignedHeaders=host">
-      </a>
-    </td>
-    <td>
-      <a href="https://rocketseat.com.br/">
-        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981650-1e2e6680-a8f6-11ea-9f42-6df8fe809e4b.png">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/diego3g">
-        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981712-b7f61380-a8f6-11ea-9099-bd3677e97e39.jpg">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/maykbrito">
-        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981753-1de29b00-a8f7-11ea-93cf-23d2ff65fa5c.png">
-      </a>
-    </td>
-  </tr>
-</table>
+<img src="https://hermes.digitalinnovation.one/site/images/cover_dio.jpg" width="500" alt="Logo Digital Innovation one"/>
 
 </div>
 
@@ -229,15 +186,9 @@ Este repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 [react_leaflet]: https://react-leaflet.js.org/
 
-[react_router_dom]: https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom
-
 [react_icons]: https://react-icons.github.io/react-icons/
 
-[axios]: https://github.com/axios/axios
-
 [expo]: https://expo.io/
-
-[expo_google_fonts]: https://github.com/expo/google-fonts
 
 [expo_constants]: https://docs.expo.io/versions/latest/sdk/constants/
 
