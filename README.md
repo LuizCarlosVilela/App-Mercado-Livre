@@ -61,9 +61,6 @@ Clone Mercado-Livre é um projeto para replicar a interface do aplicativo Mercad
 
 <br />
 
-<div align=center >  
-  <img style="border-radius:10px;" width="300" src="assets/img/app-mercado.gif">
-</div>
 
 ## ***:rocket: OBJETIVO***
 
