@@ -38,7 +38,7 @@ Clone Mercado-Livre é um projeto para replicar a interface do aplicativo Mercad
 </h3>
 
 <h2 align=center>
-  <i>Telas Mobile </i> :iphone:
+  <i>Telas</i> :iphone:
 </h2>
 
 <div align=center >  
