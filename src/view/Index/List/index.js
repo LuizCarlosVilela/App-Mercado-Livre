@@ -48,11 +48,11 @@ const List = ({ navigation }) => {
     },
     {
       id: "1",
-      name: "Celular xiaomi Redmi 7A",
-      price: 999.0,
+      name: "Celular Motorola Macro Azul Espacial",
+      price: 1299.0,
       condition: "Novo",
       picture:
-        "https://www.casasbahia-imagens.com.br/TelefoneseCelulares/Smartphones/Android/1500603461/1394929951/xiaomi-redmi-7a-2gb-ram-32gb-global-preto-1500603461.jpg",
+        "https://www.casasbahia-imagens.com.br/TelefoneseCelulares/Smartphones/Android/50004770/1189275733/smartphone-motorola-one-macro-azul-espacial-64gb-tela-max-vision-de-6-2-hd-camera-traseira-tripla-android-9-0-e-processador-octa-core-50004770.jpg",
     },
     {
       id: "3",
@@ -72,6 +72,22 @@ const List = ({ navigation }) => {
     },
     {
       id: "5",
+      name: " Celular Samsung Galaxy A30s",
+      price: 1399.0,
+      condition: "Novo",
+      picture:
+        "https://www.casasbahia-imagens.com.br/TelefoneseCelulares/Smartphones/Android/50005033/1189278412/smartphone-samsung-galaxy-a30s-preto-64gb-4gb-ram-tela-infinita-de-6-4-camera-traseira-tripla-leitor-digital-na-tela-android-9-0-e-tv-digital-50005033.jpg",
+    },
+    {
+      id: "6",
+      name: " Celular Samsung Galaxy A20s",
+      price: 1099.0,
+      condition: "Novo",
+      picture:
+        "https://www.casasbahia-imagens.com.br/TelefoneseCelulares/Smartphones/Android/50005558/1189282718/smartphone-samsung-galaxy-a20s-azul-32gb-camera-tripla-traseira-selfie-de-8mp-tela-infinita-de-6-5-leitor-de-digital-octa-core-e-android-9-0-50005558.jpg",
+    },
+    {
+      id: "7",
       name: " Celular Samsung Galaxy A30s",
       price: 1399.0,
       condition: "Novo",
