@@ -188,20 +188,13 @@ Este repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 [react_native_svg]: https://github.com/react-native-community/react-native-svg
 
-[expo_location]: https://docs.expo.io/versions/latest/sdk/location/
-
-[expo_mail_composer]: https://docs.expo.io/versions/latest/sdk/mail-composer/
-
-[multer]: https://github.com/expressjs/multer
-
-[celebrate]: https://github.com/arb/celebrate
-
-[joi]: https://github.com/hapijs/joi
-
-[react_dropzone]: https://github.com/react-dropzone/react-dropzone
-
 [asdf]: https://github.com/asdf-vm/asdf
 
 [yarn]: https://classic.yarnpkg.com/en/docs/install/#debian-stable
+
 [axios]: https://github.com/axios/axios
+
+[expo_google_fonts]: https://github.com/expo/google-fonts
+
+[react_navigation]: https://reactnavigation.org/
 
